@@ -1,0 +1,2 @@
+[fpsbooster]
+mat_showlowresimage 1
